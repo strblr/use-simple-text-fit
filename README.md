@@ -2,7 +2,7 @@
 
 A very simple React Hook and helper function to dynamically adjust the font size of an HTML element to fit its container. It uses a binary search algorithm for efficiency. Works right out of the box.
 
-[View Demo on CodeSandbox](CODESANDBOX_LINK)
+[View Demo on CodeSandbox](https://codesandbox.io/s/use-simple-text-fit-demo-f8yzj9)
 
 ## Table of Contents
 

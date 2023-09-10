@@ -1,6 +1,6 @@
 {
   "name": "use-simple-text-fit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A very simple React Hook and helper function to dynamically adjust the font size of an HTML element to fit its container. It uses a binary search algorithm for efficiency. Works right out of the box.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
