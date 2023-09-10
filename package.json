@@ -1,0 +1,39 @@
+{
+  "name": "use-simple-text-fit",
+  "version": "1.0.0",
+  "description": "A very simple React Hook and helper function to dynamically adjust the font size of an HTML element to fit its container. It uses a binary search algorithm for efficiency. Works right out of the box.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strblr/use-simple-text-fit.git"
+  },
+  "keywords": [
+    "text",
+    "fit",
+    "auto",
+    "resize",
+    "font"
+  ],
+  "author": "strblr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strblr/use-simple-text-fit/issues"
+  },
+  "homepage": "https://github.com/strblr/use-simple-text-fit#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "prettier": "^3.0.3",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "trailingComma": "none",
+    "quoteProps": "consistent"
+  }
+}
