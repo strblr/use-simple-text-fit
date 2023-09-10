@@ -10,7 +10,6 @@ A very simple React Hook and helper function to dynamically adjust the font size
 - [Usage](#usage)
     - [useTextFit](#usetextfit)
     - [fitText](#fittext)
-- [Options](#options)
 - [Examples](#examples)
 - [License](#license)
 
